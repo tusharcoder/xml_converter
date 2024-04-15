@@ -717,6 +717,8 @@ FodyWeavers.xsd
 venv
 .idea
 *.csv
+*.sql
+*.json
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
